@@ -1,0 +1,66 @@
+.book-card {
+    border-radius: 1rem;
+    overflow: hidden;
+    transition: 150ms ease-in;
+    height: 500px;
+    animation-name: present-in;
+    animation-timing-function: ease-in-out;
+    animation-duration: 450ms;
+    animation-iteration-count: 1;
+    animation-delay: calc(var(--animation-order)*60ms);
+}
+
+.book-container {
+    height: 100%;
+}
+
+.book-card-cover{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.book-card-text {
+    height: 100%;
+    backdrop-filter: blur(1rem);
+    background-color: rgb(0 0 7 / 0.5);
+    transform: translateY(200%);
+    transition: 250ms ease-in;
+    border-radius: 1rem;
+    flex-direction: column;
+    gap: 0;
+    padding-inline-start: 1rem;
+    padding-inline-end: 1rem;
+    --max-spc-width: 100%;
+}
+
+.book-card-para {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.book-card:hover {
+    transform: scale(1.1);
+    border-radius: 0.1rem;
+}
+
+.book-card:hover .book-card-text {
+    transform: translateY(10%);
+}
+
+
+.price-tag{
+    color: yellow;
+}
+
+@keyframes present-in {
+    0% {
+        transform: scale(0);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

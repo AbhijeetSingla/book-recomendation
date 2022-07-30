@@ -1,0 +1,121 @@
+{
+    "books": [
+        {
+            "tag": "javascript",    
+            "id": 1,
+            "author": "Mark Myers",
+            "title": "A Smarter Way to Learn JavaScript",
+            "abstract": "This book is written for beginners to JavaScript, but also very useful for experienced developers who want to sharpen their skills. It has all the core fundamentals of JavaScript and some advanced concepts such as constructors and prototypes. Additionally, it contains a number of free, online, interactive exercises with each chapter. The book assumes no programming experience and is extremely easy to understand.",
+            "cover": {"full": "book-1.jpg",
+                         "small": "book-1.jpg",
+                         "alt": "A Smarter Way to Learn JavaScript"
+                        },
+            "price": "₹449",
+            "link": "https://www.amazon.in/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C"
+        },
+        {
+            "tag": "javascript",    
+            "id": 2,
+            "author": "Elisabeth Robson",
+            "title": "Head First JavaScript Programming: A Brain-Friendly Guide",
+            "abstract": "Head First JavaScript Programming is designed with the latest research in cognitive science and learning theory to provide readers with a multi-sensory learning experience. It teaches you everything about the fundamentals of JavaScript to advanced topics through interactive games and puzzles. Some of the key topics covered in this JavaScript book include the inner details of JavaScript, arrays, objects, prototypes, and writing and testing applications. For anyone who prefers visual learning to text-heavy formats, this book is the answer.",
+            "cover": {"full": "book-2.jpg",
+                         "small": "book-2.jpg",
+                         "alt": "Head First JavaScript Programming: A Brain-Friendly Guide"
+                        },
+            "price": "₹3335",
+            "link": "https://www.amazon.in/Head-First-JavaScript-Programming-Morrison/dp/144934013X"
+        },
+        {
+            "tag": "javascript",    
+            "id": 3,
+            "author": "Kyle Simpson",
+            "title": "You Don't Know JS: ES6 and Beyond",
+            "abstract": "Even if you may not be a complete beginner at JavaScript, there are still lots to learn about this language. This book is part of the 'You Don't Know JS' series and focuses on ES6, the latest version of the JavaScript standard. You will learn all about the new ES6 syntax, organize code, express async flow control, leverage new API helpers, and lots more. It will also teach you how to use collections to work more efficiently with data.",
+            "cover": {"full": "book-3.jpg",
+                         "small": "book-3.jpg",
+                         "alt": "You Don't Know JS: ES6 and Beyond"
+                        },
+            "price": "₹5649.92",
+            "link": "https://www.amazon.in/You-Don%E2%80%B2t-Know-JS-Beyond/dp/1491904240"
+        },    
+        {
+            "tag": "fiction",    
+            "id": 4,
+            "author": "J.K. Rowling",
+            "title": "Harry Potter Series",
+            "abstract": "Escape to Hogwarts with the unmissable series that has sparked a lifelong reading journey for children and families all over the world. The magic starts here.Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle.",
+            "cover": {"full": "book-4.jpg",
+                         "small": "book-4.jpg",
+                         "alt": "Harry Potter Series"
+                        },
+            "price": "₹3053",
+            "link": "https://www.amazon.in/Harry-Potter-ChildrenS-Paperback-Boxed/dp/1408856778/ref=sr_1_6?crid=135Z2LT3GLDH3&keywords=harry+potter&qid=1659164043&sprefix=harry+pot%2Caps%2C526&sr=8-6"
+        },    
+        {
+            "tag": "fiction",    
+            "id": 5,
+            "author": "Amy L. Bernstein",
+            "title": "The Potrero Complex",
+            "abstract": "Journalist Rags Goldner is battle-scarred and heartbroken after covering a devastating pandemic that rages in Baltimore for five years. She leaves the city with her partner in search of a simpler life in small-town Maryland—only to discover nothing in Canary is simple. A teenager is missing, and it falls to Rags to fight the forces of apathy, paranoia, and creeping fascism to learn the shocking truth about Effie Rutter’s fate—and the fate of thousands like her.",
+            "cover": {"full": "book-5.webp",
+                         "small": "book-5.webp",
+                         "alt": "The Potrero Complex"
+                        },
+            "price": "₹1702",
+            "link": "https://www.flipkart.com/the-potrero-complex/p/itme068c40269cad"
+        },    
+        {
+            "tag": "fiction",    
+            "id": 6,
+            "author": "Alex Michaelides",
+            "title": "The Silent Patient",
+            "abstract": "Berenson lived a seemingly perfect life until one day six years ago.When she shot her husband in the head five times. Since then she hasn't spoken a single word.It's time to find out why.",
+            "cover": {"full": "book-6.jpg",
+                         "small": "book-6.jpg",
+                         "alt": "The Silent Patient"
+                        },
+            "price": "₹5649.92",
+            "link": "https://www.amazon.in/Silent-Patient-Alex-Michaelides/dp/1409181634"
+        },
+        {
+            "tag": "business",    
+            "id": 7,
+            "author": "Saurabh Mukherjea",
+            "title": "The Unusual Billionaires ",
+            "abstract": "What makes a company truly outstanding? What is the secret sauce of delivering successful results year-on-year? What is common to Asian Paints, HDFC Bank, Marico, Axis Bank, Hindustan Unilever and Berger Paints? They are Unusual Companies, built by Unusual Billionaires. The Unusual Billionaires tells the story of eight, truly outstanding companies which delivered 10 per cent revenue growth over the last ten years and 15 per cent return on capital employed.",
+            "cover": {"full": "book-7.jpg",
+                         "small": "book-7.jpg",
+                         "alt": "The Unusual Billionaires "
+                        },
+            "price": "₹276",
+            "link": "https://www.amazon.in/Unusual-Billionaires-Saurabh-Mukherjea/dp/0143426737?ref_=Oct_d_otopr_d_26160407031&pd_rd_w=jft2P&content-id=amzn1.sym.f5d0d3e7-fe8a-4766-96ee-1c39e69d20b3&pf_rd_p=f5d0d3e7-fe8a-4766-96ee-1c39e69d20b3&pf_rd_r=8NJC75YB9E9MH3S2V9EY&pd_rd_wg=WZCLo&pd_rd_r=f9fd70da-72b9-4a44-b336-e7a59a9f550d&pd_rd_i=0143426737"
+        },
+        {
+            "tag": "business",    
+            "id": 8,
+            "author": "Jason Barron",
+            "title": "The Visual MBA",
+            "abstract": "If you want to succeed in business then an MBA programme is the best way to build expertise, knowledge and experience. But an MBA programme at any top school is an enormous investment in time, effort and money. In The Visual MBA, Jason Barron offers a radical solution, explaining all key business school concepts through illustrations.",
+            "cover": {"full": "book-8.jpg",
+                         "small": "book-8.jpg",
+                         "alt": "The Visual MBA"
+                        },
+            "price": "₹668",
+            "link": "https://www.amazon.in/Visual-MBA-Everything-Business-School/dp/0241386683/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1659165846&sr=1-2"
+        },
+        {
+            "tag": "business",    
+            "id": 9,
+            "author": "Peter Thiel",
+            "title": "Zero to One",
+            "abstract": "What Valuable Company is Nobody Building? The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. If you are copying these guys, you aren’t learning from them. It’s easier to copy a model than to make something new: doing what we already know how to do takes the world from 1 to n, adding more of something familiar. Every new creation goes from 0 to 1. This book is about how to get there.",
+            "cover": {"full": "book-9.jpg",
+                         "small": "book-9.jpg",
+                         "alt": "Zero to One"
+                        },
+            "price": "₹375",
+            "link": "https://www.amazon.in/Zero-One-Start-Build-Future/dp/0753555190?ref_=Oct_d_omwf_d_26160407031&pd_rd_w=TeW6z&content-id=amzn1.sym.434d119d-9748-44f8-9f20-db43f557cf30&pf_rd_p=434d119d-9748-44f8-9f20-db43f557cf30&pf_rd_r=8NJC75YB9E9MH3S2V9EY&pd_rd_wg=WZCLo&pd_rd_r=f9fd70da-72b9-4a44-b336-e7a59a9f550d&pd_rd_i=0753555190"
+        }
+    ]
+}
